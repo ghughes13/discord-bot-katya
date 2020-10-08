@@ -1,6 +1,6 @@
 # discord-bot-katya
 A bot for discord named Katya
 
-Features: 
--Leveling/XP
+Features:  <br/>
+-Leveling/XP <br/>
 -Role Assignment based on level
