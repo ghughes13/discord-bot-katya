@@ -1,0 +1,17 @@
+{
+  "name": "katya",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Garrett Hughes @ghughes139",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "jsonfile": "^6.0.1",
+    "random": "^2.2.0"
+  }
+}
